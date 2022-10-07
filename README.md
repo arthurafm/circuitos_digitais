@@ -4,10 +4,10 @@
 
 Série de circuitos digitais feitos por Arthur Alves para os trabalhos práticos de Circuitos Digitais durante o período 2022/1, da UFRGS sob a tutela do professor André Reis.
 
-Toda lógica e pinagem em verilog deve ser usada numa placa Pitanga.
+Toda lógica e pinagem em verilog deve ser usada numa placa Pitanga, disponível em https://www.inplace-da.com/.
 
 // EN-US
 
 Series of digitais circuits made by Arthur Alves for the Digital Circuits' practical assignments during UFRGS' 2022/1 period, under professor Andre Reis' tutelage.
 
-All verilog logic and pinout is supposed to be used in Pitanga Circuit Board.
+All verilog logic and pinout is supposed to be used in Pitanga Circuit Board, avaliable at https://www.inplace-da.com/.
