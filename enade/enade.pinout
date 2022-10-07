@@ -1,0 +1,5 @@
+a = sw3;
+b = sw2;
+c = sw1;
+d = sw0;
+y = led0;

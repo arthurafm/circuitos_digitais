@@ -1,0 +1,15 @@
+D[0] = sw0;
+D[1] = sw1;
+D[2] = sw2;
+D[3] = sw3;
+S[0] = sw4;
+S[1] = sw5;
+ck = ck1;
+er = GND;
+reset = btn0;
+enable = sw9;
+set = btn1;
+Q[0] = led0;
+Q[1] = led1;
+Q[2] = led2;
+Q[3] = led3;

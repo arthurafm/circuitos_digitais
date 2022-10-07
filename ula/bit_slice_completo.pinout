@@ -1,0 +1,17 @@
+sel[0] = sw0;
+sel[1] = sw1;
+a_in[0] = sw2;
+a_in[1] = sw3;
+a_in[2] = sw4;
+a_in[3] = sw5;
+b_in[0] = sw6;
+b_in[1] = sw7;
+b_in[2] = sw8;
+b_in[3] = sw9;
+false = GND;
+f[0] = led0;
+f[1] = led1;
+f[2] = led2;
+f[3] = led3;
+cout = led9;
+

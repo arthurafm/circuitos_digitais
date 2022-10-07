@@ -1,0 +1,11 @@
+a = sw3;
+b = sw2;
+c = sw1;
+d = sw0;
+A = segd0.a_on;
+B = segd0.b_on;
+C = segd0.c_on;
+D = segd0.d_on;
+E = segd0.e_on;
+F = segd0.f_on;
+G = segd0.g_on;

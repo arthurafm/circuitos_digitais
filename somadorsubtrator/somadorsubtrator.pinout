@@ -1,0 +1,17 @@
+a3 = sw8;
+a2 = sw7;
+a1 = sw6;
+a0 = sw5;
+b3 = sw3;
+b2 = sw2;
+b1 = sw1;
+b0 = sw0;
+ctrl = sw9;
+carry = led0;
+A = segd0.a_on;
+B = segd0.b_on;
+C = segd0.c_on;
+D = segd0.d_on;
+E = segd0.e_on;
+F = segd0.f_on;
+G = segd0.g_on;

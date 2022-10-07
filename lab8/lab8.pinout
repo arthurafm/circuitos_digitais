@@ -1,0 +1,15 @@
+eck = ck1;
+er = btn0;
+es = btn1;
+eena = sw9;
+down = sw8;
+estado0 = led0;
+estado1 = led1;
+true = VCC;
+sq[6] = segd0.a_on;
+sq[5] = segd0.b_on;
+sq[4] = segd0.c_on;
+sq[3] = segd0.d_on;
+sq[2] = segd0.e_on;
+sq[1] = segd0.f_on;
+sq[0] = segd0.g_on;

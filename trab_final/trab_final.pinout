@@ -1,0 +1,15 @@
+eck = ck1;
+er = btn1;
+es = btn2;
+eena = sw9;
+down = sw0;
+A = segd0.a_on;
+B = segd0.b_on;
+C = segd0.c_on;
+D = segd0.d_on;
+E = segd0.e_on;
+F = segd0.f_on;
+G = segd0.g_on;
+estado2 = led9;
+estado1 = led8;
+estado0 = led7;

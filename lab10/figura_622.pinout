@@ -1,0 +1,9 @@
+in = sw0;
+ck = ck1;
+reset = sw9;
+set = sw8;
+enable = sw7;
+q4 = led3;
+q3 = led2;
+q2 = led1;
+q1 = led0;
